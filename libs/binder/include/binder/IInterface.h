@@ -247,6 +247,7 @@ constexpr const char* const kManualInterfaces[] = {
   "android.hardware.ISoundTriggerHwService",
   "android.hardware.IStreamListener",
   "android.hardware.IStreamSource",
+  "android.hardware.fingerprint.IFingerprintCustomDaemon",
   "android.input.IInputFlinger",
   "android.input.ISetInputWindowsListener",
   "android.media.IAudioFlinger",
